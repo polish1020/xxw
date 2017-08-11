@@ -1,0 +1,34 @@
+{
+  "name": "xxw",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "ejs": "~2.5.6",
+    "express": "~4.15.2",
+    "less-middleware": "~2.2.0",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2"
+  },
+  "description": "亲爱的徐小薇",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polish1020/xxw.git"
+  },
+  "keywords": [
+    "xxw"
+  ],
+  "author": "wb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polish1020/xxw/issues"
+  },
+  "homepage": "https://github.com/polish1020/xxw#readme"
+}
